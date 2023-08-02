@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://twitter.com/@jospinndagano" target="blank">Twitter</a> || 
 <a href="https://linkedin.com/in/jospin ndagano" target="blank">Linkedin</a> || 
-<a href="https://stackoverflow.com/users/22260873" target="blank">Stackoverflow</a>
+<a href="https://stackoverflow.com/users/22260873" target="blank">Stackoverflow</a> || 
 <a href="https://fb.com/jospin ndagano" target="blank">Facebook</a> || 
 <a href="https://instagram.com/jospin ndagano" target="blank">Instagram</a> 
 </p>
