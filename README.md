@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jospin ndagano</h1>
-<h3 align="center">A passionate Full Stake Developer</h3>
+<h3 align="center">A passionate🌱 I’m a full-stack web developer 🧑‍💻 I consider myself to be a fast learner🕵️‍♀️ I like doing quality work, and always attentive to details on pull request reviews. 🧸 I'm proud of who I am, what I have built, and what I am building. 📫 The best way to reach out to me is to send me an email or text me on LinkedIn ⚡ Fun fact: I enjoy singin' and celebrating with others after a long day's work.</h3>
 
 - 👨‍💻 All of my projects are available at [https://jospinndagano.netlify.app/](https://jospinndagano.netlify.app/)
 
