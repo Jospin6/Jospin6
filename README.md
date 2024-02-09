@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<p align="center">I'm Jospin, a Font-end developer with a eager desire for problem-solving. I love creating useful products and trying new technologies. In my free time, I enjoy working on open-source projects and sharing what I learn. Feel free to connect with me.</p>
+<p align="center">I'm Jospin, a Font-end developer with a eager desire for problem-solving. I love creating useful products and trying new technologies. I'm currently learning Ruby on Rails and DevOps. In my free time, I enjoy working on open-source projects and sharing what I learn. Feel free to connect with me.</p>
 
 
 <p align="center">
