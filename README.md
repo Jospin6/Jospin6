@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://twitter.com/@jospinndagano" target="blank">Twitter</a> || 
-<a href="https://linkedin.com/in/jospin ndagano" target="blank">Linkedin</a>
+<a href="www.linkedin.com/in/jospin-ndagano" target="blank">Linkedin</a>
 </p>
 
 
