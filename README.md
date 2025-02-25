@@ -17,7 +17,7 @@ I'm a passionate **Full Stack Developer** who loves building impactful products 
 🎯 **Always learning, always building.**  
 
 Let's connect and build something amazing together!  
-📬 **[Reach out to me](jospinndagano1@gmail.com)**  
+📬  **Reach out to me:** [jospinndagano1@gmail.com](mailto:jospinndagano1@gmail.com)  
 
 
 
