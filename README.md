@@ -12,7 +12,7 @@ I'm a passionate **Full Stack Developer** who loves building impactful products 
 ## 📚 Tech Stack  
 - **Frontend:** React, Next.js, Redux Toolkit, and Tailwindcss  
 - **Backend:** Nest.js, fastAPI, and Ruby on Rails 
-- **Tools & More:** TypeScript, React Hook Form, Zod  
+- **Tools & More:** TypeScript, React Hook Form, Zod, Jest, Pytest, Rspec  
 
 🎯 **Always learning, always building.**  
 
